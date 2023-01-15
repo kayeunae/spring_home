@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Project\spring\global"/>
+			<item value="C:\Project\Springezen\myshop"/>
 			<item value="C:\Project\spring\myshop"/>
 		</list>
 		<list key="projectNameTemplate">
